@@ -2,7 +2,8 @@
 
 **v1.0.3**
 
-**Tech Stack:** SQLite, Python, MVC
+**Tech Stack:** SQLite, Python, MVC  
+UC Berkeley 2020 Winter W200 Project 1 | chentim@berkeley.edu  
 
 ## Description
 
