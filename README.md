@@ -1,7 +1,7 @@
 # AwesomeBabyNames
 
 **v1.0.3**  
-Keywords SQLite, Python, MVC  
+Keywords: SQLite, Python, MVC  
 UC Berkeley W200 Project I, 2020 Winter | chentim@berkeley.edu  
 
 ## Description
