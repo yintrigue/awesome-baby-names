@@ -1,6 +1,6 @@
 # AwesomeBabyNames
 
-**v1.0.3**
+**v1.0.3**  
 **Tech Stack:** SQLite, Python, MVC  
 UC Berkeley W200 Project I, 2020 Winter | chentim@berkeley.edu  
 
