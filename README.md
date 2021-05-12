@@ -2,9 +2,7 @@
 
 **v1.0.3**
 
-**Tech Stack:** MVC, SQLite, MVC, Python
-
-## Description
+**Tech Stack:** MVC, SQLite, Python
 
 An awesome baby starts with an awesome name!  
 
@@ -29,6 +27,10 @@ To run AwesomeBabyNames*, simply run:
 ![](./img/AwesomeBabyNames_demo_full_window.gif)
 
 Still don't have an idea for the baby's name? Here's a fun one for you to start with: Enter "Alice" and observe how people actually use the name for both baby girls and boys!
+
+<img src='./img/analysis_alice_time.jpg' width='770'/>
+
+<img src='./img/analysis_alice.jpg' width='700'/>
 
 ## Repository
 
